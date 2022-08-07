@@ -1,0 +1,23 @@
+{
+  "name": "typescryptcourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FerranPetit97/TypeScryptCourse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FerranPetit97/TypeScryptCourse/issues"
+  },
+  "homepage": "https://github.com/FerranPetit97/TypeScryptCourse#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
